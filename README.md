@@ -15,7 +15,7 @@ Este é um projeto de **Calculadora de Índice de Massa Corporal (IMC)** desenvo
 
 - **HTML**: Estruturação do projeto
 - **CSS**: Estilização e layout responsivo
-- **JavaScript **: Lógica de cálculo e manipulação do DOM
+- **JavaScript**: Lógica de cálculo e manipulação do DOM
 
 
 
